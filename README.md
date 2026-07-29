@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Paul Napoleon Phiri 👋</h1>
 
 <h3 align="center">
-Full-Stack Software Developer | Business Information Technology Graduate | Malawi 🇲🇼
+Full-Stack Software Developer | Business Information Technology Student | Malawi 🇲🇼
 </h3>
 
 <p align="center">
