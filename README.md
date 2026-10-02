@@ -10,7 +10,6 @@ I design and develop dependable web and mobile systems for financial institution
 
 ## Current Focus
 
-* Working as a Software Developer at Terex Innovation Lab Limited
 * Building web applications with Laravel, PHP, React, Next.js and TypeScript
 * Developing cross-platform mobile and desktop applications with Flutter
 * Creating role-based booking, point-of-sale, employee club and operational management systems
