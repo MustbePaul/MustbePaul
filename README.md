@@ -1,76 +1,27 @@
 # Paul Napoleon Phiri
 
-### Full-Stack Software Developer | Web & Mobile Applications
+**Full-Stack Software Developer** · Blantyre, Malawi
 
-I am a Full-Stack Software Developer and Business Information Technology graduate based in Blantyre, Malawi.
+I began programming in 2023 and build web, mobile and business systems with Laravel, React, TypeScript, Node.js and Flutter. I focus on clear workflows, dependable APIs and maintainable interfaces.
 
-I design and develop dependable web and mobile systems for financial institutions, NGOs, organisations and growing businesses. My experience includes booking platforms, content management systems, payment integrations, offline-first applications, point-of-sale systems and operational dashboards.
+I am a **Software Developer Intern at Country Club Limbe** (October 2026–present), working on shared services, web and Flutter integration, testing and release preparation. I was a Software Developer at Terex Innovation Lab (February–September 2026), where I was the primary web developer for the Terex-owned TaxiHire / SWIFTR product and contributed frontend and UI/UX work to ZikoSpace. I also hold a concurrent family-business role at Naporcas Business Center.
 
-[View My Portfolio](https://paul-phiri-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/paul-phiri-2574281b0) · [Email Me](mailto:phiri6paul@gmail.com)
+## Selected work
 
-## Current Focus
+- **[Serenity Hub](https://github.com/MustbePaul/Serenity-Hub)** — Personal wellbeing project with a Laravel API and Flutter client.
+- **Online Banking System** — Personal academic banking prototype, later redeveloped with Laravel, Inertia.js, React and TypeScript.
+- **Billing System** — Personal billing and financial administration project covering quotations, invoices, customers, payment allocation and credit notes.
+- **BusZathu Mobile** — Flutter mobile-client contribution to an existing bus platform.
+- **TaxiHire / SWIFTR** — Primary web development for a Terex-owned ride-booking product.
+- **ZikoSpace** — Collaborative Terex frontend and UI/UX contribution.
+- **Story Workshop Website & CMS** — Collaborative public website and editorial workflows for a client project.
 
-* Building web applications with Laravel, PHP, React, Next.js and TypeScript
-* Developing cross-platform mobile and desktop applications with Flutter
-* Creating role-based booking, point-of-sale, employee club and operational management systems
-* Open to software engineering opportunities, collaborations and selected freelance projects
-
-## Featured Projects
-
-### [Serenity Hub](https://github.com/MustbePaul/Serenity-Hub)
-
-A cross-platform mental wellness application developed with Flutter and supported by a versioned Laravel API. Serenity Hub provides guided audio and video sessions, playback tracking, mood-informed recommendations, therapist discovery, appointment booking, bookmarks, mood check-ins and confidential support requests.
-
-**Technologies:** `Flutter` `Dart` `Laravel 13` `PHP 8.3` `Provider` `SQLite` `REST API`
-
-### Story Workshop Website and CMS
-
-A public storytelling platform supported by a secure content management system. The platform manages articles, events, vacancies, service bookings, newsletter subscriptions and public submissions.
-
-**Technologies:** `React 19` `Laravel 13` `PHP` `Sanctum` `MySQL` `React Query` `Framer Motion`
-
-### RBM Digital Systems
-
-A suite of Flutter applications supporting desktop point-of-sale operations, employee club services and mobile workflows. The systems provide ordering, allocation tracking, offline transaction processing, menu readiness management, stock alerts and sales monitoring.
-
-**Technologies:** `Flutter` `Dart` `Laravel` `SQLite` `REST API`
-
-### ZikoSpace
-
-An accommodation discovery and reservation platform that helps users find suitable properties, review available options and manage bookings.
-
-**Technologies:** `Laravel` `PHP` `MySQL` `JavaScript` `REST API`
-
-### TaxiHire / SWIFTR
-
-A transport-booking platform supporting passenger, driver and administrator workflows. The system includes trip management, fare processing and integrations with PayChangu and OneKhusa payment services.
-
-**Technologies:** `Flutter` `Dart` `Laravel` `MySQL` `REST API` `Payment APIs`
-
-## Technical Skills
-
-| Area                  | Technologies                                                           |
-| --------------------- | ---------------------------------------------------------------------- |
-| Backend               | Laravel, PHP, Node.js, REST APIs                                       |
-| Frontend              | React, Next.js, TypeScript, JavaScript, Angular, Tailwind CSS          |
-| Mobile                | Flutter, Dart, Material 3                                              |
-| Databases             | MySQL, PostgreSQL, SQLite, SQL                                         |
-| Development tools     | Git, GitHub, Postman, Figma, VS Code                                   |
-| Additional experience | Payment integrations, offline-first systems, role-based access control |
+**Technologies:** Laravel, PHP, React, Next.js, TypeScript, JavaScript, Node.js, Express, Flutter, Dart, MySQL, PostgreSQL, SQLite, REST APIs, Git and Playwright.
 
 ## Education
 
-**Bachelor of Science in Business Information and Technology**
-Malawi University of Science and Technology
-Graduated on 6 August 2026
+**BSc in Business Information Technology**, Malawi University of Science and Technology. Graduated 6 August 2026.
 
-## Contact
-
-* **Portfolio:** [paul-phiri-portfolio.vercel.app](https://paul-phiri-portfolio.vercel.app)
-* **Email:** [phiri6paul@gmail.com](mailto:phiri6paul@gmail.com)
-* **LinkedIn:** [Paul Phiri](https://linkedin.com/in/paul-phiri-2574281b0)
-* **GitHub:** [MustbePaul](https://github.com/MustbePaul)
-
----
-
-*Interested in building reliable digital products that solve practical organisational and business challenges.*
+**Portfolio:** [paul-phiri-portfolio.vercel.app](https://paul-phiri-portfolio.vercel.app/)
+**LinkedIn:** [Paul Napoleon Phiri](https://www.linkedin.com/in/paul-napoleon-phiri)
+**Email:** [phiri6paul@gmail.com](mailto:phiri6paul@gmail.com)
